@@ -1,2 +1,2 @@
 # course-work
-Курсовая работа
+Course work
